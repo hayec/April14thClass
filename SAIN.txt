@@ -1,0 +1,12 @@
+Campus
+Schedule
+CRN
+Use MVC
+Allow admin and faculty to view overall program gpa, student gpa, student major gpa
+1024-bit password encryption
+Allow searching for students by Name, address, ID, etc
+Auto Generate Student ID
+Check GPA betweeen 0 and 4.0
+Check Student ID, even custom, is 8-digit num
+DatePicker Date of Entry
+DatePicker Date of Birth
